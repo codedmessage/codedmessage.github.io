@@ -1,0 +1,44 @@
+body{
+    background-color: blueviolet;
+}
+body {
+    margin: 0; 
+    font-family: Helvetica, Arial, sans-serif;
+    }
+   body > header {
+        background-color: orange;
+        padding: 16px; 
+        color: white; 
+        text-align: center; 
+        }
+    body > footer { 
+            background-color: orange; 
+            padding: 16px; 
+            color: white; 
+            text-align: center; 
+            } 
+            div {
+                width: value;
+                height: value;
+                margin: value-top value-right value-bottom value-left;
+                padding: value-top value-right value-bottom value-left;
+                }
+#logo { /* NEW */
+                    margin: 0; /* NEW */
+                    } 
+nav > ul { 
+                        list-style: none; 
+                        } 
+                        nav > ul > a { 
+                        color: white;
+                        } 
+body > main > article { 
+                            width: 70%; 
+                            margin: auto; 
+                            }
+p {
+                                font-size: 1vw;
+                                }
+                                h1 {
+                                font-size: 4vw;
+                                }
